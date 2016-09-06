@@ -3,7 +3,9 @@
 Welcome to the Web-Geoapp of Madrid's best road to cycle!
 It will help you to visualize the best routes for your daily commute in Madrid.
 
-I hope you like it and Have a safe ride!
+I hope you like it and have a safe ride!
+
+:smile:
 
 ![GeoApp for cycle paths in Madrid](Screenshot.png?raw=true "Cycle Paths in Madrid - GeoApp")
 
