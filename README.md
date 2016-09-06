@@ -1,8 +1,8 @@
-# Cycle Paths in Madrid Web geoApp :bike:
+# :bike: Cycle Paths in Madrid Web geoApp :bike:
 
-Welcome to the Web-Geoapp of Madrid's best road to cycle!
+Welcome to the Web-Geoapp of Madrid's best roads for cycling!
 It will help you to visualize the best routes for your daily commute in Madrid.
-
+Less traffic, wider pavement, speed limited and cycle paths. 
 I hope you like it and have a safe ride!
 
 :smile:
